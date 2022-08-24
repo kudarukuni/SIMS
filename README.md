@@ -1,6 +1,5 @@
 # SIMS
 <h1>The Smart Inventory Management System</h1> <br>
-SIMS was designed for Smart Manufacturing purposes. The solution will allow for fast smart inventory stock taking by using the ESP32Cam and ESP8266 IoT modules.
 
 <b>Arduino IDE Dependencies</b> <br>
 Install Boards Manager > ESP32CAM via https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json <br>

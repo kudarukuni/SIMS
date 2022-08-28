@@ -1,7 +1,22 @@
 <!DOCTYPE html>
 <html>
-<head><meta http-equiv="refresh" content="3"><link rel="stylesheet" type="text/css" href="style.css" media="screen"/><link rel="apple-touch-icon" sizes="180x180" href="img/fav-icons/apple-touch-icon.png"/><link rel="icon" type="image/png" sizes="32x32" href="img/fav-icons/favicon-32x32.png"/><link rel="icon" type="image/png" sizes="16x16" href="img/fav-icons/favicon-16x16.png"/><meta name="theme-color" content="#6e7833"><title> S.I.M.S </title></head>
-<body><br><h1><font color="green">SMART INVENTORY MANAGEMENT SYSTEM</font></h1><h2><font color="silver">Barcode Data</font></h2>
+<head>
+	<meta http-equiv="refresh" content="3">
+	<link rel="stylesheet" type="text/css" href="style.css" media="screen"/>
+	<link rel="apple-touch-icon" sizes="180x180" href="img/fav-icons/apple-touch-icon.png"/>
+	<link rel="icon" type="image/png" sizes="32x32" href="img/fav-icons/favicon-32x32.png"/>
+	<link rel="icon" type="image/png" sizes="16x16" href="img/fav-icons/favicon-16x16.png"/>
+	<meta name="theme-color" content="#6e7833">
+	<title> S.I.M.S </title>
+</head>
+<body>
+	<br>
+	<h1>
+		<font color="#020536">SMART INVENTORY MANAGEMENT SYSTEM</font>
+	</h1>
+	<h2>
+		<font color="#de1d1d">Barcode Data</font>
+	</h2>
 <?php
 	$server = "localhost";
 	$username = "root";
@@ -21,4 +36,8 @@
 		}
 	}
 ?>
-</table></body></html></body></html>
+</table>
+</body>
+</html>
+</body>
+</html>

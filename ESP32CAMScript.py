@@ -5,7 +5,7 @@ import time
 connection = pymysql.connect(host="localhost", user="root", passwd="", database="sims_db")
 cursor = connection.cursor()
 
-ser = serial.Serial('COM6', 9600) #Listen on Arduino Uno port for payload.
+ser = serial.Serial('COM6', 115200)
 time.sleep(2)
 
 data = []
